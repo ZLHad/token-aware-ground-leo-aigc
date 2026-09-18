@@ -1,0 +1,15 @@
+{
+  "title": "Token-Aware Joint Optimization for Ground-LEO Collaborative Multimodal AIGC Inference: simulation code and calibration data",
+  "upload_type": "software",
+  "description": "Simulation code, Qwen3-VL profile-calibration pipeline, and the sweep outputs used in the IEEE Transactions on Vehicular Technology correspondence 'Token-Aware Joint Optimization for Ground-LEO Collaborative Multimodal AIGC Inference'. Includes the closed-form per-user solutions, the dual decomposition with certified stopping, the four baselines, and the calibrated rate-distortion profiles.",
+  "creators": [
+    {"name": "Zhang, Linghao", "affiliation": "Nanjing University of Posts and Telecommunications"},
+    {"name": "Xu, Bo", "affiliation": "Nanjing University of Posts and Telecommunications"},
+    {"name": "Zhao, Haitao", "affiliation": "Nanjing University of Posts and Telecommunications"},
+    {"name": "Wu, Mengru", "affiliation": "Xinjiang University"},
+    {"name": "Sun, Jinlong", "affiliation": "Nanjing University of Posts and Telecommunications"}
+  ],
+  "license": "MIT",
+  "keywords": ["LEO satellite", "multimodal AIGC", "token compression", "dual decomposition", "vision-language model", "edge inference"],
+  "access_right": "open"
+}
