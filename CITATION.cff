@@ -14,6 +14,6 @@ authors:
     given-names: Jinlong
 year: 2026
 license: MIT
-doi: 10.5281/zenodo.22829023
-version: v1.0.0
+doi: 10.5281/zenodo.22829141
+version: v1.0.1
 repository-code: https://github.com/ZLHad/token-aware-ground-leo-aigc

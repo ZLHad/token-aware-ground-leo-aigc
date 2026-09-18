@@ -1,6 +1,6 @@
 # Token-Aware Joint Optimization for Ground–LEO Collaborative Multimodal AIGC Inference
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22829023.svg)](https://doi.org/10.5281/zenodo.22829023)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22829022.svg)](https://doi.org/10.5281/zenodo.22829022)
 
 Simulation code and calibration data for the correspondence
 *Token-Aware Joint Optimization for Ground–LEO Collaborative Multimodal AIGC Inference*
@@ -137,9 +137,10 @@ tests/                    checks of the closed forms and of the monotonicity of 
 
 ## Archive
 
-The code and data as submitted are archived at Zenodo: version v1.0.0 has DOI
-[10.5281/zenodo.22829023](https://doi.org/10.5281/zenodo.22829023), and the concept DOI
-[10.5281/zenodo.22829022](https://doi.org/10.5281/zenodo.22829022) always resolves to the latest version.
+The code and data as submitted are archived at Zenodo. The concept DOI
+[10.5281/zenodo.22829022](https://doi.org/10.5281/zenodo.22829022) always resolves to the latest version;
+v1.0.1 (with the CSV tables) has DOI [10.5281/zenodo.22829141](https://doi.org/10.5281/zenodo.22829141)
+and v1.0.0 has DOI [10.5281/zenodo.22829023](https://doi.org/10.5281/zenodo.22829023).
 
 ## License
 
