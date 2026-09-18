@@ -1,0 +1,6 @@
+scheme,QoE,QoE_5pct,below_local_share,TTFT_ms,TPOT_ms,gain_of_proposed_pct
+Proposed,1.795,0.556,0.00,939,42.0,
+Profile-Oblivious,1.725,0.552,0.18,973,39.8,4.1
+Rule-Based,1.659,0.702,0.08,1035,48.9,8.2
+TD3-RL,1.650,0.596,0.07,1064,52.1,8.8
+Fixed-eta,1.542,0.455,0.12,1103,53.5,16.4

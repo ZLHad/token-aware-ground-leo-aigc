@@ -1,0 +1,43 @@
+U,scheme,QoE_5pct,below_local_share
+10,Proposed,1.83,0.00
+10,Profile-Oblivious,1.81,0.00
+10,Rule-Based,1.42,0.10
+10,TD3-RL,1.46,0.00
+10,Fixed-eta,1.41,0.00
+10,Local fallback,0.55,
+15,Proposed,1.64,0.00
+15,Profile-Oblivious,1.62,0.00
+15,Rule-Based,1.36,0.10
+15,TD3-RL,1.19,0.00
+15,Fixed-eta,1.18,0.00
+15,Local fallback,0.55,
+20,Proposed,1.46,0.00
+20,Profile-Oblivious,1.43,0.00
+20,Rule-Based,1.14,0.09
+20,TD3-RL,0.96,0.01
+20,Fixed-eta,0.92,0.02
+20,Local fallback,0.55,
+25,Proposed,1.30,0.00
+25,Profile-Oblivious,0.56,0.06
+25,Rule-Based,0.92,0.06
+25,TD3-RL,0.85,0.02
+25,Fixed-eta,0.68,0.06
+25,Local fallback,0.55,
+30,Proposed,0.56,0.00
+30,Profile-Oblivious,0.55,0.18
+30,Rule-Based,0.70,0.08
+30,TD3-RL,0.60,0.07
+30,Fixed-eta,0.45,0.12
+30,Local fallback,0.55,
+35,Proposed,0.55,0.00
+35,Profile-Oblivious,0.55,0.27
+35,Rule-Based,0.49,0.15
+35,TD3-RL,0.44,0.10
+35,Fixed-eta,0.23,0.22
+35,Local fallback,0.55,
+40,Proposed,0.55,0.00
+40,Profile-Oblivious,0.55,0.34
+40,Rule-Based,0.27,0.25
+40,TD3-RL,0.25,0.19
+40,Fixed-eta,0.00,0.32
+40,Local fallback,0.55,

@@ -53,6 +53,24 @@ sweep (Table II, Fig. 3(a), Fig. 3(d), Tables S-IV, S-VI, S-VII), and
 `figures/data/aux_*.json` hold the auxiliary sweeps. `make_fig2.py` reads
 the compressed file directly.
 
+The tables of the paper and of the supplementary material are exported as
+CSV files in `results/` by
+
+```bash
+python -m experiments.export_tables
+```
+
+| File | Table |
+|---|---|
+| `results/table2_performance_U30.csv` | Table II |
+| `results/gains_by_U.csv` | Gains over each baseline at every load (Fig. 3(a)) |
+| `results/tableS4_per_class_U30.csv` | Table S-IV |
+| `results/tableS5_isl_slice_U30.csv` | Table S-V |
+| `results/tableS6_tail_by_U.csv` | Table S-VI |
+| `results/tableS7_certified_gap.csv` | Table S-VII |
+| `results/tableS8_qeff_vs_w1_U30.csv` | Table S-VIII |
+| `results/per_user_records.csv.gz` | Flat per-user records of the main sweep (218,750 rows) |
+
 The TD3-RL baseline uses the trained policy in `data/td3_checkpoint.pt`
 (training log in `data/td3_train_log.npz`, hyperparameters in Sec. S5).
 It can be retrained with
@@ -110,7 +128,8 @@ src/optimizer.py          dual decomposition with certified stopping and recover
 src/data_gen.py           request, channel, and constellation generation
 src/semantic_profile.py   rate-distortion profile S(eta) and effective quality
 src/baselines/            the four baselines
-experiments/              sweeps and figure scripts (Table II is printed by make_fig2)
+experiments/              sweeps, figure scripts, and the CSV export of the tables
+results/                  the tables of the paper as CSV
 figures/data/             outputs of the sweeps used in the paper
 calibration/              Qwen3-VL calibration pipeline and its outputs
 tests/                    checks of the closed forms and of the monotonicity of eta*
