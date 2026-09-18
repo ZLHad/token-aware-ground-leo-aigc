@@ -1,0 +1,800 @@
+{"question_id": "426546001", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "mustard", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 27}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "nothing", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 27}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "nothing", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 27}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "tomato", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 27}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "meat", "acc": 0.6, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 53}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "mustard", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 53}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "meat", "acc": 0.6, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 53}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "pepperoni", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 53}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 30}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 30}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 30}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 30}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 60}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 60}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 60}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 60}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 30}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 30}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 30}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "2", "acc": 0.3, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 30}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 60}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 60}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 60}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 60}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 32}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "2", "acc": 0.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 32}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 32}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 32}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 64}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 64}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 64}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 64}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "1", "acc": 0.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 26}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "1", "acc": 0.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 26}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "1", "acc": 0.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 26}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "2", "acc": 1.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 26}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "2", "acc": 1.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 52}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "1", "acc": 0.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 52}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "2", "acc": 1.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 52}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "2", "acc": 1.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 52}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 28}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 28}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 28}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 28}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 56}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 56}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 56}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 56}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 28}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 28}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 28}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 28}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 56}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "pasture", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 56}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "pasture", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 56}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 56}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "no", "acc": 0.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 40}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "no", "acc": 0.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 40}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 40}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 40}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "no", "acc": 0.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 80}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "no", "acc": 0.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 80}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 80}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 80}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 26}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "none", "acc": 0.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 26}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 26}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 26}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 52}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 52}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 52}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 52}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 32}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 32}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 32}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 32}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 64}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 64}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 64}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 64}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 27}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 27}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 27}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 27}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 54}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 54}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 54}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 54}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "picnic", "acc": 0.0, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 30}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 30}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 30}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "picnic", "acc": 0.0, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 30}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 60}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 60}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 60}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 60}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 26}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 26}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 26}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 26}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "oak", "acc": 1.0, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 52}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 52}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 52}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 52}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 26}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 26}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 26}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 26}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 52}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 52}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 52}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 52}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 28}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 28}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 28}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 28}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 56}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 56}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 56}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 56}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 30}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 30}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 30}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "2", "acc": 1.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 30}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 60}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 60}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 60}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 60}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 28}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 28}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 28}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 28}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 56}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 56}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 56}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 56}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 26}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "parasailing", "acc": 0.3, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 26}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 26}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 26}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 52}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 52}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "parasailing", "acc": 0.3, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 52}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 52}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "lab and golden retriever", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 28}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "lab", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 28}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "lab", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 28}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "mixed", "acc": 0.3, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 28}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "lab and golden retriever", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 56}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "lab and golden retriever", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 56}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "lab and golden retriever", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 56}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "mixed", "acc": 0.3, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 56}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.1, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 27}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.1, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 27}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.1, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 27}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.1, "mode": "topk_L12", "pred": "Yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 27}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.2, "mode": "stratified", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 54}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.2, "mode": "hybrid50", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 54}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.2, "mode": "adaptive", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 54}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.2, "mode": "topk_L12", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 54}
+{"question_id": "38361", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "becker body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 77}
+{"question_id": "38361", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "becker body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 77}
+{"question_id": "38361", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "becker body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 77}
+{"question_id": "38361", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 77}
+{"question_id": "38361", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 154}
+{"question_id": "38361", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 154}
+{"question_id": "38361", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 154}
+{"question_id": "38361", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 154}
+{"question_id": "34857", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "ted", "acc": 1.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 77}
+{"question_id": "34857", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "bing", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 77}
+{"question_id": "34857", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "bing", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 77}
+{"question_id": "34857", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "ted dashboard", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 77}
+{"question_id": "34857", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "ted", "acc": 1.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 154}
+{"question_id": "34857", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "ted", "acc": 1.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 154}
+{"question_id": "34857", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "ted dashboard", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 154}
+{"question_id": "34857", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "ted.com", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 154}
+{"question_id": "36403", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "2010", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 77}
+{"question_id": "36403", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "silver", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 77}
+{"question_id": "36403", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "liberty", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 77}
+{"question_id": "36403", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "one ounce .999 silver 20", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 77}
+{"question_id": "36403", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "liberty", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 154}
+{"question_id": "36403", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "one troy oz .999 silver", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 154}
+{"question_id": "36403", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "silver", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 154}
+{"question_id": "36403", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "one troy oz .999 silver", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 154}
+{"question_id": "36422", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "w 6th st", "acc": 0.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 77}
+{"question_id": "36422", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "van buren", "acc": 0.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 77}
+{"question_id": "36422", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "van buren", "acc": 0.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 77}
+{"question_id": "36422", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 77}
+{"question_id": "36422", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 154}
+{"question_id": "36422", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 154}
+{"question_id": "36422", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 154}
+{"question_id": "36422", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 154}
+{"question_id": "34622", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 77}
+{"question_id": "34622", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 77}
+{"question_id": "34622", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 77}
+{"question_id": "34622", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 77}
+{"question_id": "34622", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 154}
+{"question_id": "34622", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 154}
+{"question_id": "34622", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 154}
+{"question_id": "34622", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 154}
+{"question_id": "34639", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 71}
+{"question_id": "34639", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 71}
+{"question_id": "34639", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 71}
+{"question_id": "34639", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 71}
+{"question_id": "34639", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 141}
+{"question_id": "34639", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 141}
+{"question_id": "34639", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 141}
+{"question_id": "34639", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 141}
+{"question_id": "34689", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "fox", "acc": 0.3, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 77}
+{"question_id": "34689", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "fox", "acc": 0.3, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 77}
+{"question_id": "34689", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "fox", "acc": 0.3, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 77}
+{"question_id": "34689", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "coca cola", "acc": 1.0, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 77}
+{"question_id": "34689", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "fox", "acc": 0.3, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 154}
+{"question_id": "34689", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "coca cola", "acc": 1.0, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 154}
+{"question_id": "34689", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "coca cola", "acc": 1.0, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 154}
+{"question_id": "34689", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "coca cola", "acc": 1.0, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 154}
+{"question_id": "35008", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "rt", "acc": 0.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 68}
+{"question_id": "35008", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 68}
+{"question_id": "35008", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 68}
+{"question_id": "35008", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 68}
+{"question_id": "35008", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 135}
+{"question_id": "35008", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 135}
+{"question_id": "35008", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 135}
+{"question_id": "35008", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 135}
+{"question_id": "35058", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "a life style", "acc": 0.9, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 103}
+{"question_id": "35058", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "amnes style", "acc": 0.0, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 103}
+{"question_id": "35058", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "alife", "acc": 0.0, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 103}
+{"question_id": "35058", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 103}
+{"question_id": "35058", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 205}
+{"question_id": "35058", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 205}
+{"question_id": "35058", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 205}
+{"question_id": "35058", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 205}
+{"question_id": "36520", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "boston medical center", "acc": 0.0, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 64}
+{"question_id": "36520", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 64}
+{"question_id": "36520", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "israel deaconess medical center", "acc": 0.0, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 64}
+{"question_id": "36520", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 64}
+{"question_id": "36520", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 128}
+{"question_id": "36520", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "israel deaconess medical center", "acc": 0.0, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 128}
+{"question_id": "36520", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 128}
+{"question_id": "36520", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 128}
+{"question_id": "38239", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 77}
+{"question_id": "38239", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 77}
+{"question_id": "38239", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 77}
+{"question_id": "38239", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 77}
+{"question_id": "38239", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 154}
+{"question_id": "38239", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 154}
+{"question_id": "38239", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 154}
+{"question_id": "38239", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 154}
+{"question_id": "35087", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "nina", "acc": 0.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 68}
+{"question_id": "35087", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "ninja", "acc": 0.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 68}
+{"question_id": "35087", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "nintendo", "acc": 0.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 68}
+{"question_id": "35087", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "playstation 2", "acc": 1.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 68}
+{"question_id": "35087", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "ninja", "acc": 0.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 135}
+{"question_id": "35087", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "nina", "acc": 0.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 135}
+{"question_id": "35087", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "playstation 2", "acc": 1.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 135}
+{"question_id": "35087", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "playstation 2", "acc": 1.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 135}
+{"question_id": "36633", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "asa brewery", "acc": 0.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 58}
+{"question_id": "36633", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "asa brewery", "acc": 0.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 58}
+{"question_id": "36633", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "asa brewery", "acc": 0.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 58}
+{"question_id": "36633", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "asahi", "acc": 1.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 58}
+{"question_id": "36633", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "asahi", "acc": 1.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 116}
+{"question_id": "36633", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "asa breweries", "acc": 0.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 116}
+{"question_id": "36633", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "asa", "acc": 0.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 116}
+{"question_id": "36633", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "asahi", "acc": 1.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 116}
+{"question_id": "38252", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 103}
+{"question_id": "38252", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 103}
+{"question_id": "38252", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "house on the rock", "acc": 0.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 103}
+{"question_id": "38252", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "house on the rock", "acc": 0.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 103}
+{"question_id": "38252", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 205}
+{"question_id": "38252", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 205}
+{"question_id": "38252", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 205}
+{"question_id": "38252", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 205}
+{"question_id": "36548", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "unanswerable", "acc": 0.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 77}
+{"question_id": "36548", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "a400", "acc": 0.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 77}
+{"question_id": "36548", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "unanswerable", "acc": 0.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 77}
+{"question_id": "36548", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 77}
+{"question_id": "36548", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 154}
+{"question_id": "36548", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 154}
+{"question_id": "36548", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 154}
+{"question_id": "36548", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 154}
+{"question_id": "36407", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "siliners", "acc": 0.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 68}
+{"question_id": "36407", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "liners", "acc": 0.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 68}
+{"question_id": "36407", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "liners", "acc": 0.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 68}
+{"question_id": "36407", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "liners", "acc": 0.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 68}
+{"question_id": "36407", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "sunliners", "acc": 1.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 135}
+{"question_id": "36407", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "sunliners", "acc": 1.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 135}
+{"question_id": "36407", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "sunliners", "acc": 1.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 135}
+{"question_id": "36407", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "sunliners", "acc": 1.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 135}
+{"question_id": "34937", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 68}
+{"question_id": "34937", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 68}
+{"question_id": "34937", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 68}
+{"question_id": "34937", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 68}
+{"question_id": "34937", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 135}
+{"question_id": "34937", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 135}
+{"question_id": "34937", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 135}
+{"question_id": "34937", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 135}
+{"question_id": "34603", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "drupahagen", "acc": 0.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 68}
+{"question_id": "34603", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 68}
+{"question_id": "34603", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "drupacon", "acc": 0.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 68}
+{"question_id": "34603", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 68}
+{"question_id": "34603", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 135}
+{"question_id": "34603", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 135}
+{"question_id": "34603", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 135}
+{"question_id": "34603", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 135}
+{"question_id": "38133", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "roberto estiago", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 68}
+{"question_id": "38133", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "eduardo camargo", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 68}
+{"question_id": "38133", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "063", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 68}
+{"question_id": "38133", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "roberto santiano silva", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 68}
+{"question_id": "38133", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "roberto", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 135}
+{"question_id": "38133", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "roberto", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 135}
+{"question_id": "38133", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "roberto", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 135}
+{"question_id": "38133", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "roberto santiago", "acc": 1.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 135}
+{"question_id": "36697", "source": "textvqa", "eta": 0.1, "mode": "stratified", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 77}
+{"question_id": "36697", "source": "textvqa", "eta": 0.1, "mode": "hybrid50", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 77}
+{"question_id": "36697", "source": "textvqa", "eta": 0.1, "mode": "adaptive", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 77}
+{"question_id": "36697", "source": "textvqa", "eta": 0.1, "mode": "topk_L12", "pred": "del", "acc": 0.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 77}
+{"question_id": "36697", "source": "textvqa", "eta": 0.2, "mode": "stratified", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 154}
+{"question_id": "36697", "source": "textvqa", "eta": 0.2, "mode": "hybrid50", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 154}
+{"question_id": "36697", "source": "textvqa", "eta": 0.2, "mode": "adaptive", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 154}
+{"question_id": "36697", "source": "textvqa", "eta": 0.2, "mode": "topk_L12", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 154}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "1920", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "2022", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "1920", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "1975", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "1975", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "2020", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "1975", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "1975", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "24", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 55}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "24", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 55}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "20", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 55}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "22%", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 55}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "24", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 110}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "24", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 110}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "24", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 110}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "22", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 110}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "1.4 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "1.4 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "The image provided does not contain any data or projection", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "1.5 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "2.54 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "1.4 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "2.54 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "1.4 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 28}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 28}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 28}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 28}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 56}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 56}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 56}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 56}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "5", "acc": 1.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "3", "acc": 0.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "5", "acc": 1.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "4", "acc": 0.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "5", "acc": 1.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "3", "acc": 0.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "5", "acc": 1.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "5", "acc": 1.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "53", "acc": 0.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "The image shows a bar chart with two blue bars", "acc": 0.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "20.1", "acc": 0.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "73.3", "acc": 1.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "73.3", "acc": 1.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "53", "acc": 0.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "73.1", "acc": 1.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "73.3", "acc": 1.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "53.8%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "9.8%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "10%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "30%", "acc": 1.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "28.0%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "10%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "9.1%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "31.3%", "acc": 1.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "31%", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 60}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "7", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 60}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "11", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 60}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "21%", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 60}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "31", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 120}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "31", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 120}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "39", "acc": 1.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 120}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "23%", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 120}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "40%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "41", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "40%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "41%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "40", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "40%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "3", "acc": 0.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "41%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Female", "acc": 1.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "The chart shows the \"Share of adults with at", "acc": 0.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "31%", "acc": 0.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Female", "acc": 1.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Female", "acc": 1.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Female", "acc": 1.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Male", "acc": 0.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Female", "acc": 1.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "The least popular game in the chart is the one", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 28}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Puzzle games", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 28}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "The chart does not provide specific game names or labels", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 28}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "32", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 28}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Sport", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 55}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "The least popular game in the chart is the one", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 55}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Puzzle", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 55}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "32", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 55}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "4", "acc": 0.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "3", "acc": 0.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "3", "acc": 0.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "2", "acc": 1.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "2", "acc": 1.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "1", "acc": 0.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "2", "acc": 1.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "2", "acc": 1.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "0.42857142", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 27}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "0.04236111", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 27}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "0.42857142", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 27}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "0.32", "acc": 1.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 27}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "0.76923076", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 54}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "0.04236111", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 54}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "0.32", "acc": 1.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 54}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "0.32", "acc": 1.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 54}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "5", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "2", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "5", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "5", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "6", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "4", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "6", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "6", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "10", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 42}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "18.5", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 42}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "37", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 42}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "38.5", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 42}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "49", "acc": 1.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 84}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "28.5", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 84}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "49", "acc": 1.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 84}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "49", "acc": 1.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 84}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "3", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "0", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "2", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "2", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "3", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "3", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "3", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "2", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "49", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 28}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "0", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 28}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "49", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 28}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "21", "acc": 1.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 28}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "49", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 55}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "49", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 55}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "21", "acc": 1.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 55}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "49", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 55}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Lonely", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 65}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "7", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 65}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Angry", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 65}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Amused", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 65}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Inspired", "acc": 1.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 130}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Lonely", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 130}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Angry", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 130}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Pressed", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 130}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "90%", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 27}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "76%", "acc": 1.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 27}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "90%", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 27}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "5%", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 27}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Not safe%", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 53}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "71", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 53}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "50", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 53}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "76%", "acc": 1.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 53}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "More", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "More", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "More", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "29%", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "17", "acc": 1.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "More", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "17", "acc": 1.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "17", "acc": 1.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "6%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "11%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "The image shows a bar chart with dark blue bars", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "13%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "17%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "11%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "17%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "13%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Gray", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Gray", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Black", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Black", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Dark blue", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Dark blue", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Black", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Black", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "35.96%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "To find the average share of people in the Philippines", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "26.46%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "40.5%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "33.96%", "acc": 1.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "38.92%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "38.46%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "38.96%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "100%", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "100%", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "100%", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "71.08%", "acc": 1.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "81.06%", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "75.09%", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "81.88", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "70.78%", "acc": 1.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "The image provided is a pie chart with two segments", "acc": 0.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "47%", "acc": 1.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "47", "acc": 1.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "38% + 9% = 4", "acc": 0.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "67", "acc": 0.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "47", "acc": 1.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "59%", "acc": 0.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "47%", "acc": 1.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "15.08%", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "44.405%", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "52.905%", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "22.675%", "acc": 1.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "21.33%", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "20.16%", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "22.5%", "acc": 1.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "22.675%", "acc": 1.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "68.5", "acc": 0.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "68.9", "acc": 0.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "68.5", "acc": 0.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "74%", "acc": 1.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "75.6", "acc": 1.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "68.7", "acc": 0.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "74", "acc": 1.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "74", "acc": 1.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "53", "acc": 1.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "16.1", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "The image shows a bar chart with data for the", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "90.2", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "39.6", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "36.1", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "107.1", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "53.8", "acc": 1.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Ust Luga*", "acc": 0.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Poland", "acc": 0.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Luga", "acc": 0.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "January 2010", "acc": 0.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "January 2010", "acc": 0.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "January 2009", "acc": 0.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "November 2007", "acc": 1.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "November 2007", "acc": 1.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "2007", "acc": 0.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "November 2007", "acc": 1.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "November 2007", "acc": 1.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "4", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Product sales", "acc": 0.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "0.3", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "1.57", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "0.5", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "0.11 kWh", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "0.1", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "0.1", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "0.13", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "0.11 kWh", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "Over 64 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "Over 39 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "Over 49 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "30-39 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "Small (1–39 years)", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "Over 50 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "40–64 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "51%", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "75%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "65%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "80%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "87.5%", "acc": 1.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "85.7%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "60%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "90%", "acc": 1.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "87.5%", "acc": 1.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.1, "mode": "stratified", "pred": "1.5%", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.1, "mode": "hybrid50", "pred": "The chart shows the \"Gross enrollment ratio\"", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.1, "mode": "adaptive", "pred": "1%", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.1, "mode": "topk_L12", "pred": "3.5", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.2, "mode": "stratified", "pred": "2.5%", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.2, "mode": "hybrid50", "pred": "2%", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.2, "mode": "adaptive", "pred": "2.5", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.2, "mode": "topk_L12", "pred": "3.1", "acc": 1.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 103}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "mustard", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 27}
+{"question_id": "426546001", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "nothing", "acc": 0.0, "H": 0.7235185503959656, "n_vis": 264, "n_kept": 53}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 30}
+{"question_id": "455448000", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7855210900306702, "n_vis": 300, "n_kept": 60}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 30}
+{"question_id": "505739000", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "1", "acc": 1.0, "H": 0.7439305782318115, "n_vis": 300, "n_kept": 60}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 32}
+{"question_id": "455401000", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "3", "acc": 1.0, "H": 0.8177292346954346, "n_vis": 320, "n_kept": 64}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "2", "acc": 1.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 26}
+{"question_id": "505650007", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "2", "acc": 1.0, "H": 0.7571654915809631, "n_vis": 260, "n_kept": 52}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 28}
+{"question_id": "300814001", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7632967829704285, "n_vis": 280, "n_kept": 56}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 28}
+{"question_id": "185530004", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "field", "acc": 0.6, "H": 0.759912371635437, "n_vis": 280, "n_kept": 56}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 40}
+{"question_id": "54516000", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7917683720588684, "n_vis": 400, "n_kept": 80}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 26}
+{"question_id": "505786007", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "tomato", "acc": 1.0, "H": 0.7775665521621704, "n_vis": 260, "n_kept": 52}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 32}
+{"question_id": "343706000", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yarn", "acc": 1.0, "H": 0.8265280723571777, "n_vis": 320, "n_kept": 64}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 27}
+{"question_id": "185550002", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7589739561080933, "n_vis": 266, "n_kept": 54}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 30}
+{"question_id": "73120004", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "flying kites", "acc": 0.6, "H": 0.7365514039993286, "n_vis": 300, "n_kept": 60}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 26}
+{"question_id": "474711007", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "pine", "acc": 0.6, "H": 0.7693963646888733, "n_vis": 260, "n_kept": 52}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 26}
+{"question_id": "54340006", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "blue", "acc": 1.0, "H": 0.7881250381469727, "n_vis": 260, "n_kept": 52}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 28}
+{"question_id": "275717006", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "no", "acc": 1.0, "H": 0.8220698237419128, "n_vis": 280, "n_kept": 56}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 30}
+{"question_id": "474751002", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "1", "acc": 0.0, "H": 0.716090977191925, "n_vis": 300, "n_kept": 60}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 28}
+{"question_id": "33221001", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yellow", "acc": 1.0, "H": 0.7845171689987183, "n_vis": 280, "n_kept": 56}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 26}
+{"question_id": "505814002", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "kitesurfing", "acc": 0.0, "H": 0.7424353957176208, "n_vis": 260, "n_kept": 52}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "lab and golden retriever", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 28}
+{"question_id": "335099001", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "lab and golden retriever", "acc": 0.0, "H": 0.7575631141662598, "n_vis": 280, "n_kept": 56}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.1, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 27}
+{"question_id": "304316002", "source": "vqav2", "eta": 0.2, "mode": "topk_L6", "pred": "yes", "acc": 1.0, "H": 0.7262901663780212, "n_vis": 266, "n_kept": 54}
+{"question_id": "38361", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 77}
+{"question_id": "38361", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "becker auto body", "acc": 0.0, "H": 0.7413488030433655, "n_vis": 768, "n_kept": 154}
+{"question_id": "34857", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "ted.com", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 77}
+{"question_id": "34857", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "ted.com", "acc": 0.0, "H": 0.7272061109542847, "n_vis": 768, "n_kept": 154}
+{"question_id": "36403", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "one troy oz. fine silver", "acc": 0.0, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 77}
+{"question_id": "36403", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "one troy oz .999 fine silver", "acc": 0.3, "H": 0.7689156532287598, "n_vis": 768, "n_kept": 154}
+{"question_id": "36422", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 77}
+{"question_id": "36422", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "van ness", "acc": 1.0, "H": 0.7770941257476807, "n_vis": 768, "n_kept": 154}
+{"question_id": "34622", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 77}
+{"question_id": "34622", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "yamaha", "acc": 1.0, "H": 0.7298808097839355, "n_vis": 768, "n_kept": 154}
+{"question_id": "34639", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 71}
+{"question_id": "34639", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "jesus", "acc": 1.0, "H": 0.7007957100868225, "n_vis": 704, "n_kept": 141}
+{"question_id": "34689", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "coca cola", "acc": 1.0, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 77}
+{"question_id": "34689", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "coca cola", "acc": 1.0, "H": 0.7733301520347595, "n_vis": 768, "n_kept": 154}
+{"question_id": "35008", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 68}
+{"question_id": "35008", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "smart", "acc": 1.0, "H": 0.7496175169944763, "n_vis": 672, "n_kept": 135}
+{"question_id": "35058", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 103}
+{"question_id": "35058", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "lifestyle", "acc": 0.3, "H": 0.780186653137207, "n_vis": 1024, "n_kept": 205}
+{"question_id": "36520", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 64}
+{"question_id": "36520", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "beth israel deaconess medical center", "acc": 0.9, "H": 0.7932414412498474, "n_vis": 640, "n_kept": 128}
+{"question_id": "38239", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "push", "acc": 0.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 77}
+{"question_id": "38239", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "pushover", "acc": 1.0, "H": 0.7784523367881775, "n_vis": 768, "n_kept": 154}
+{"question_id": "35087", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "playstation 2", "acc": 1.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 68}
+{"question_id": "35087", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "playstation 2", "acc": 1.0, "H": 0.7767490744590759, "n_vis": 672, "n_kept": 135}
+{"question_id": "36633", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "asahi", "acc": 1.0, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 58}
+{"question_id": "36633", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "asahi breweries", "acc": 0.3, "H": 0.7826735377311707, "n_vis": 576, "n_kept": 116}
+{"question_id": "38252", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "laura on the king", "acc": 0.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 103}
+{"question_id": "38252", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "house on the prairie", "acc": 1.0, "H": 0.7776383757591248, "n_vis": 1024, "n_kept": 205}
+{"question_id": "36548", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 77}
+{"question_id": "36548", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "700", "acc": 1.0, "H": 0.7568958401679993, "n_vis": 768, "n_kept": 154}
+{"question_id": "36407", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "sunliners", "acc": 1.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 68}
+{"question_id": "36407", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "sunliners", "acc": 1.0, "H": 0.8156518936157227, "n_vis": 672, "n_kept": 135}
+{"question_id": "34937", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 68}
+{"question_id": "34937", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "3", "acc": 1.0, "H": 0.7970091104507446, "n_vis": 672, "n_kept": 135}
+{"question_id": "34603", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 68}
+{"question_id": "34603", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "copenhagen", "acc": 1.0, "H": 0.7719723582267761, "n_vis": 672, "n_kept": 135}
+{"question_id": "38133", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "roberto silva", "acc": 0.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 68}
+{"question_id": "38133", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "roberto santiago", "acc": 1.0, "H": 0.7705167531967163, "n_vis": 672, "n_kept": 135}
+{"question_id": "36697", "source": "textvqa", "eta": 0.1, "mode": "topk_L6", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 77}
+{"question_id": "36697", "source": "textvqa", "eta": 0.2, "mode": "topk_L6", "pred": "ctrl", "acc": 1.0, "H": 0.7568200826644897, "n_vis": 768, "n_kept": 154}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "2021", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_3", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "1975", "acc": 1.0, "H": 0.7539674043655396, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "0", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 55}
+{"question_id": "chart_0_4", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "4", "acc": 0.0, "H": 0.8351653814315796, "n_vis": 546, "n_kept": 110}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "1.4 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_6", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "1.4 billion", "acc": 0.0, "H": 0.7852939367294312, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 28}
+{"question_id": "chart_0_7", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Yes", "acc": 1.0, "H": 0.8082824945449829, "n_vis": 280, "n_kept": 56}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "4", "acc": 0.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_8", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "5", "acc": 1.0, "H": 0.7301447987556458, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "The value of the tallest blue bar is **not", "acc": 0.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_10", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "The tallest blue bar corresponds to the year 2", "acc": 0.0, "H": 0.7918245196342468, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "27.9%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_12", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "29.2%", "acc": 0.0, "H": 0.8098647594451904, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "16%", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 60}
+{"question_id": "chart_0_13", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "18", "acc": 0.0, "H": 0.7379363775253296, "n_vis": 600, "n_kept": 120}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "40%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_15", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "41%", "acc": 1.0, "H": 0.7888644933700562, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Male", "acc": 0.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_16", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Male", "acc": 0.0, "H": 0.7813761234283447, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_24", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Saudi Arabia", "acc": 1.0, "H": 0.8010639548301697, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "The chart does not provide information about specific games or", "acc": 0.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 28}
+{"question_id": "chart_0_27", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Simulation", "acc": 1.0, "H": 0.7733017206192017, "n_vis": 273, "n_kept": 55}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "1", "acc": 0.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_31", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "2", "acc": 1.0, "H": 0.7477631568908691, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "0.66666666", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 27}
+{"question_id": "chart_0_32", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "0.13333333", "acc": 0.0, "H": 0.835817277431488, "n_vis": 266, "n_kept": 54}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "2", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_35", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "3", "acc": 0.0, "H": 0.7871671319007874, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "The image shows a bar chart with three categories:", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 42}
+{"question_id": "chart_0_37", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "28.5", "acc": 0.0, "H": 0.7995547652244568, "n_vis": 420, "n_kept": 84}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "2", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_39", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "3", "acc": 0.0, "H": 0.7973130941390991, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "0.46", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 28}
+{"question_id": "chart_0_41", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "56", "acc": 0.0, "H": 0.8524197340011597, "n_vis": 272, "n_kept": 55}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "angry", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 65}
+{"question_id": "chart_0_42", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Lonely", "acc": 0.0, "H": 0.802092969417572, "n_vis": 650, "n_kept": 130}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "68%", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 27}
+{"question_id": "chart_0_43", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "71", "acc": 0.0, "H": 0.8721203804016113, "n_vis": 264, "n_kept": 53}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "China", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_44", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "More", "acc": 0.0, "H": 0.8330501317977905, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "23%", "acc": 0.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_47", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "16%", "acc": 1.0, "H": 0.7781809568405151, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Blue", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_50", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Black", "acc": 0.0, "H": 0.7877499461174011, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "50%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_51", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "50%", "acc": 0.0, "H": 0.7742393612861633, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "74.81%", "acc": 0.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_52", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "70.81%", "acc": 1.0, "H": 0.7908032536506653, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "47%", "acc": 1.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_54", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "47%", "acc": 1.0, "H": 0.7952089309692383, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "50", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_56", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "50.0%", "acc": 0.0, "H": 0.7603152394294739, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "62.7%", "acc": 0.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_57", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "75.6%", "acc": 1.0, "H": 0.8028085231781006, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "37.2", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_59", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "37.8", "acc": 0.0, "H": 0.7917425632476807, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_61", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Hungary", "acc": 1.0, "H": 0.7269850373268127, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "November 2007", "acc": 1.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_62", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "November 2007", "acc": 1.0, "H": 0.7709432244300842, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_65", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Pink", "acc": 1.0, "H": 0.7539518475532532, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_66", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "3", "acc": 0.0, "H": 0.7820931077003479, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "dollars", "acc": 0.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_67", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "Service", "acc": 1.0, "H": 0.7497711181640625, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "0", "acc": 0.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_70", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "0.11", "acc": 1.0, "H": 0.7546515464782715, "n_vis": 513, "n_kept": 103}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 27}
+{"question_id": "chart_0_71", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "No", "acc": 1.0, "H": 0.8269686698913574, "n_vis": 270, "n_kept": 54}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "Slovenia", "acc": 0.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 44}
+{"question_id": "chart_0_79", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "United Kingdom", "acc": 1.0, "H": 0.7545633912086487, "n_vis": 432, "n_kept": 87}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "30-39 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_80", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "30-39 years", "acc": 0.0, "H": 0.8036990761756897, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "60%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 43}
+{"question_id": "chart_0_81", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "80%", "acc": 0.0, "H": 0.7736014723777771, "n_vis": 425, "n_kept": 85}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.1, "mode": "topk_L6", "pred": "0", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 52}
+{"question_id": "chart_0_82", "source": "chartqa", "eta": 0.2, "mode": "topk_L6", "pred": "3.5", "acc": 0.0, "H": 0.8051210641860962, "n_vis": 513, "n_kept": 103}

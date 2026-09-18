@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Token-Aware Joint Optimization for Ground-LEO Collaborative Multimodal AIGC Inference (code and calibration data)"
+authors:
+  - family-names: Zhang
+    given-names: Linghao
+  - family-names: Xu
+    given-names: Bo
+  - family-names: Zhao
+    given-names: Haitao
+  - family-names: Wu
+    given-names: Mengru
+  - family-names: Sun
+    given-names: Jinlong
+year: 2026
+license: MIT

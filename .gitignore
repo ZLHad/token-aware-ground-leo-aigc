@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+calibration/data/images/*
+!calibration/data/images/.gitkeep
+calibration/data/questions*.jsonl
+calibration/logs/
+calibration/results/
+figures/data/run_all.json
+*.log
