@@ -1,5 +1,7 @@
 # Token-Aware Joint Optimization for Ground–LEO Collaborative Multimodal AIGC Inference
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22829023.svg)](https://doi.org/10.5281/zenodo.22829023)
+
 Simulation code and calibration data for the correspondence
 *Token-Aware Joint Optimization for Ground–LEO Collaborative Multimodal AIGC Inference*
 (submitted to IEEE Transactions on Vehicular Technology).
@@ -113,6 +115,12 @@ figures/data/             outputs of the sweeps used in the paper
 calibration/              Qwen3-VL calibration pipeline and its outputs
 tests/                    checks of the closed forms and of the monotonicity of eta*
 ```
+
+## Archive
+
+The code and data as submitted are archived at Zenodo: version v1.0.0 has DOI
+[10.5281/zenodo.22829023](https://doi.org/10.5281/zenodo.22829023), and the concept DOI
+[10.5281/zenodo.22829022](https://doi.org/10.5281/zenodo.22829022) always resolves to the latest version.
 
 ## License
 
